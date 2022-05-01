@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240978182221",
+    "firebase_url": "https://hero-37cf9-default-rtdb.firebaseio.com",
+    "project_id": "hero-37cf9",
+    "storage_bucket": "hero-37cf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240978182221:android:7e9d83a5fe2de016915c04",
+        "android_client_info": {
+          "package_name": "com.example.hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240978182221-qje7jdiijn500ihrts8flsqif0hbg496.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtqdjBiHcluttLzqazmQ8Vl9HHYXqTI6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240978182221-qje7jdiijn500ihrts8flsqif0hbg496.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
